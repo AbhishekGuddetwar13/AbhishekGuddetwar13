@@ -79,6 +79,8 @@ Excel dashboard analyzing grocery sales, outlet performance, and customer rating
 ### 👨‍💼 Workforce Insights Dashboard
 Excel HR analytics dashboard for employee performance, salaries, and workforce insights.
 
+### 🗄️ E-Commerce Sales Analysis Using SQL
+Performed data analysis on an e-commerce dataset using SQL. Created database tables, analyzed revenue, customer behavior, country-wise sales, monthly trends, and handled missing data using SQL queries and views.
 ---
 
 ## 📫 Connect With Me
