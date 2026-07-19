@@ -81,7 +81,9 @@ Excel HR analytics dashboard for employee performance, salaries, and workforce i
 
 ### 🗄️ E-Commerce Sales Analysis Using SQL
 
-Performed data analysis on an e-commerce dataset using SQL. Created database tables, analyzed revenue, customer behavior, country-wise sales, monthly trends, and handled missing data using SQL queries and views.
+Built SQL queries to analyze e-commerce sales, customer behavior, revenue trends, and country-wise performance using aggregations, filtering, and views.
+
+
 ---
 
 ## 📫 Connect With Me
