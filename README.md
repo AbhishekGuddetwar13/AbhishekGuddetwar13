@@ -75,7 +75,7 @@ Excel HR analytics dashboard for employee performance, salaries, and workforce i
 https://github.com/AbhishekGuddetwar13
 
 🔗 LinkedIn:
-Add Your LinkedIn Profile Here
+https://www.linkedin.com/in/abhishekguddetwar/
 
 ---
 
