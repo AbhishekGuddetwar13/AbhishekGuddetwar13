@@ -49,6 +49,18 @@ I am passionate about transforming raw data into meaningful insights using Excel
 
 ## 📂 Featured Projects
 
+### 🏥 Hospital Patients Report Dashboard (Power BI)
+Healthcare analytics dashboard for patient distribution and department performance.
+
+### 📱 Samsung Mobile Sales Dashboard (Power BI)
+Mobile sales analytics with customer ratings, payment methods, and geographic insights.
+
+### 🛒 Blinkit Sales Dashboard (Power BI)
+Retail analytics dashboard covering outlet performance and product sales.
+
+### 📊 Sales Performance Dashboard (Power BI)
+Revenue, profit, orders, customer segments, and sales trend analysis.
+
 ### 📊 Adidas US Sales Dashboard
 Power BI dashboard analyzing revenue, profit, products, and regional sales performance.
 
